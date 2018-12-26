@@ -1,0 +1,650 @@
+{
+    "tipo":[
+        {
+            "titulación":"Arquitecto o ingeniero técnico",
+            "total_mujeres":3,
+            "total_hombres":21,
+            "total":24,
+            "edades":[
+                {
+                    "edad":"0 - 3",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"4 - 18",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"19 - 25",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"26 - 45",
+                    "mujeres":1,
+                    "hombres":14
+                },
+                {
+                    "edad":"46 - 65",
+                    "mujeres":2,
+                    "hombres":5
+                },
+                {
+                    "edad":"66 - 120",
+                    "mujeres":0,
+                    "hombres":2
+                }
+            ]
+        },
+        {
+            "titulación":"Bachiller, formación profesional de segundo grado o titulos equivalentes o superiores",
+            "total_mujeres":20,
+            "total_hombres":17,
+            "total":37,
+            "edades":[
+                {
+                    "edad":"0 - 3",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"4 - 18",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"19 - 25",
+                    "mujeres":3,
+                    "hombres":0
+                },
+                {
+                    "edad":"26 - 45",
+                    "mujeres":12,
+                    "hombres":9
+                },
+                {
+                    "edad":"46 - 65",
+                    "mujeres":1,
+                    "hombres":5
+                },
+                {
+                    "edad":"66 - 120",
+                    "mujeres":4,
+                    "hombres":3
+                }
+            ]
+        },
+        {
+            "titulación":"Bachiller elemental, graduado escolar, EGB completa. Primaria completa. ESO. FPB",
+            "total_mujeres":512,
+            "total_hombres":626,
+            "total":1138,
+            "edades":[
+                {
+                    "edad":"0 - 3",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"4 - 18",
+                    "mujeres":34,
+                    "hombres":33
+                },
+                {
+                    "edad":"19 - 25",
+                    "mujeres":43,
+                    "hombres":49
+                },
+                {
+                    "edad":"26 - 45",
+                    "mujeres":186,
+                    "hombres":266
+                },
+                {
+                    "edad":"46 - 65",
+                    "mujeres":210,
+                    "hombres":256
+                },
+                {
+                    "edad":"66 - 120",
+                    "mujeres":39,
+                    "hombres":22
+                }
+            ]
+        },
+        {
+            "titulación":"Bachiller superior. BUP. Bchiller LOGSE",
+            "total_mujeres":175,
+            "total_hombres":198,
+            "total":373,
+            "edades":[
+                {
+                    "edad":"0 - 3",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"4 - 18",
+                    "mujeres":0,
+                    "hombres":2
+                },
+                {
+                    "edad":"19 - 25",
+                    "mujeres":46,
+                    "hombres":59
+                },
+                {
+                    "edad":"26 - 45",
+                    "mujeres":62,
+                    "hombres":76
+                },
+                {
+                    "edad":"46 - 65",
+                    "mujeres":45,
+                    "hombres":66
+                },
+                {
+                    "edad":"66 - 120",
+                    "mujeres":9,
+                    "hombres":8
+                }
+            ]
+        },
+        {
+            "titulación":"Diplomados en escuelas universitarias (empresariales, profesorado de EGB, ATS y similares)",
+            "total_mujeres":97,
+            "total_hombres":38,
+            "total":135,
+            "edades":[
+                {
+                    "edad":"0 - 3",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"4 - 18",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"19 - 25",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"26 - 45",
+                    "mujeres":59,
+                    "hombres":14
+                },
+                {
+                    "edad":"46 - 65",
+                    "mujeres":26,
+                    "hombres":16
+                },
+                {
+                    "edad":"66 - 120",
+                    "mujeres":12,
+                    "hombres":8
+                }
+            ]
+        },
+        {
+            "titulación":"Doctorado y estudios de postgrado o especialización para licenciados. Máster universitario",
+            "total_mujeres":42,
+            "total_hombres":23,
+            "total":65,
+            "edades":[
+                {
+                    "edad":"0 - 3",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"4 - 18",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"19 - 25",
+                    "mujeres":2,
+                    "hombres":5
+                },
+                {
+                    "edad":"26 - 45",
+                    "mujeres":38,
+                    "hombres":18
+                },
+                {
+                    "edad":"46 - 65",
+                    "mujeres":2,
+                    "hombres":0
+                },
+                {
+                    "edad":"66 - 120",
+                    "mujeres":0,
+                    "hombres":0
+                }
+            ]
+        },
+        {
+            "titulación":"Enseñanza primaria incompleta. Cinco cursos de EGB o equivalente o certificado de escolaridad o equivalente",
+            "total_mujeres":440,
+            "total_hombres":443,
+            "total":873,
+            "edades":[
+                {
+                    "edad":"0 - 3",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"4 - 18",
+                    "mujeres":5,
+                    "hombres":2
+                },
+                {
+                    "edad":"19 - 25",
+                    "mujeres":2,
+                    "hombres":2
+                },
+                {
+                    "edad":"26 - 45",
+                    "mujeres":45,
+                    "hombres":85
+                },
+                {
+                    "edad":"46 - 65",
+                    "mujeres":209,
+                    "hombres":203
+                },
+                {
+                    "edad":"66 - 120",
+                    "mujeres":172,
+                    "hombres":148
+                }
+            ]
+        },
+        {
+            "titulación":"Formación profesional de primer grado. Formación profesional de grado medio. Oficialía industrial",
+            "total_mujeres":179,
+            "total_hombres":104,
+            "total":283,
+            "edades":[
+                {
+                    "edad":"0 - 3",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"4 - 18",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"19 - 25",
+                    "mujeres":29,
+                    "hombres":12
+                },
+                {
+                    "edad":"26 - 45",
+                    "mujeres":92,
+                    "hombres":62
+                },
+                {
+                    "edad":"46 - 65",
+                    "mujeres":54,
+                    "hombres":28
+                },
+                {
+                    "edad":"66 - 120",
+                    "mujeres":14,
+                    "hombres":2
+                }
+            ]
+        },
+        {
+            "titulación":"Formación profesional de segundo grado. Formación profesional de grado superior. Maestría industrial",
+            "total_mujeres":96,
+            "total_hombres":81,
+            "total":177,
+            "edades":[
+                {
+                    "edad":"0 - 3",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"4 - 18",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"19 - 25",
+                    "mujeres":23,
+                    "hombres":14
+                },
+                {
+                    "edad":"26 - 45",
+                    "mujeres":63,
+                    "hombres":54
+                },
+                {
+                    "edad":"46 - 65",
+                    "mujeres":7,
+                    "hombres":11
+                },
+                {
+                    "edad":"66 - 120",
+                    "mujeres":3,
+                    "hombres":2
+                }
+            ]
+        },
+        {
+            "titulación":"Graduado escolar o equivalente",
+            "total_mujeres":18,
+            "total_hombres":32,
+            "total":50,
+            "edades":[
+                {
+                    "edad":"0 - 3",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"4 - 18",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"19 - 25",
+                    "mujeres":1,
+                    "hombres":2
+                },
+                {
+                    "edad":"26 - 45",
+                    "mujeres":10,
+                    "hombres":11
+                },
+                {
+                    "edad":"46 - 65",
+                    "mujeres":7,
+                    "hombres":16
+                },
+                {
+                    "edad":"66 - 120",
+                    "mujeres":0,
+                    "hombres":3
+                }
+            ]
+        },
+        {
+            "titulación":"Licenciado universitario. Arquitecto o ingeniero superior. Grado universitario",
+            "total_mujeres":118,
+            "total_hombres":80,
+            "total":198,
+            "edades":[
+                {
+                    "edad":"0 - 3",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"4 - 18",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"19 - 25",
+                    "mujeres":20,
+                    "hombres":11
+                },
+                {
+                    "edad":"26 - 45",
+                    "mujeres":69,
+                    "hombres":47
+                },
+                {
+                    "edad":"46 - 65",
+                    "mujeres":25,
+                    "hombres":19
+                },
+                {
+                    "edad":"66 - 120",
+                    "mujeres":4,
+                    "hombres":3
+                }
+            ]
+        },
+        {
+            "titulación":"No aplicable por ser menor de 16 años",
+            "total_mujeres":276,
+            "total_hombres":277,
+            "total":553,
+            "edades":[
+                {
+                    "edad":"0 - 3",
+                    "mujeres":85,
+                    "hombres":85
+                },
+                {
+                    "edad":"4 - 18",
+                    "mujeres":191,
+                    "hombres":192
+                },
+                {
+                    "edad":"19 - 25",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"26 - 45",
+                    "mujeres":59,
+                    "hombres":14
+                },
+                {
+                    "edad":"46 - 65",
+                    "mujeres":26,
+                    "hombres":16
+                },
+                {
+                    "edad":"66 - 120",
+                    "mujeres":12,
+                    "hombres":8
+                }
+            ]
+        },
+        {
+            "titulación":"No sabe leer ni escribir",
+            "total_mujeres":74,
+            "total_hombres":16,
+            "total":90,
+            "edades":[
+                {
+                    "edad":"0 - 3",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"4 - 18",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"19 - 25",
+                    "mujeres":0,
+                    "hombres":1
+                },
+                {
+                    "edad":"26 - 45",
+                    "mujeres":0,
+                    "hombres":1
+                },
+                {
+                    "edad":"46 - 65",
+                    "mujeres":4,
+                    "hombres":3
+                },
+                {
+                    "edad":"66 - 120",
+                    "mujeres":70,
+                    "hombres":11
+                }
+            ]
+        },
+        {
+            "titulación":"Otras titulaciones medias (auxiliar de clínica, secretariado, programador de informática, auxiliar de vuelo, diplomados en artes y oficios, etc...)",
+            "total_mujeres":2,
+            "total_hombres":3,
+            "total":5,
+            "edades":[
+                {
+                    "edad":"0 - 3",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"4 - 18",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"19 - 25",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"26 - 45",
+                    "mujeres":2,
+                    "hombres":0
+                },
+                {
+                    "edad":"46 - 65",
+                    "mujeres":0,
+                    "hombres":2
+                },
+                {
+                    "edad":"66 - 120",
+                    "mujeres":0,
+                    "hombres":1
+                }
+            ]
+        },
+        {
+            "titulación":"Sin estudios",
+            "total_mujeres":641,
+            "total_hombres":699,
+            "total":1340,
+            "edades":[
+                {
+                    "edad":"0 - 3",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"4 - 18",
+                    "mujeres":104,
+                    "hombres":114
+                },
+                {
+                    "edad":"19 - 25",
+                    "mujeres":16,
+                    "hombres":58
+                },
+                {
+                    "edad":"26 - 45",
+                    "mujeres":31,
+                    "hombres":65
+                },
+                {
+                    "edad":"46 - 65",
+                    "mujeres":131,
+                    "hombres":147
+                },
+                {
+                    "edad":"66 - 120",
+                    "mujeres":359,
+                    "hombres":315
+                }
+            ]
+        },
+        {
+            "titulación":"Titulación inferior a graduado escolar",
+            "total_mujeres":3,
+            "total_hombres":6,
+            "total":9,
+            "edades":[
+                {
+                    "edad":"0 - 3",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"4 - 18",
+                    "mujeres":0,
+                    "hombres":2
+                },
+                {
+                    "edad":"19 - 25",
+                    "mujeres":1,
+                    "hombres":2
+                },
+                {
+                    "edad":"26 - 45",
+                    "mujeres":1,
+                    "hombres":1
+                },
+                {
+                    "edad":"46 - 65",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"66 - 120",
+                    "mujeres":1,
+                    "hombres":1
+                }
+            ]
+        },
+        {
+            "titulación":"Titulados de estudios superiores no universitarios",
+            "total_mujeres":1,
+            "total_hombres":0,
+            "total":1,
+            "edades":[
+                {
+                    "edad":"0 - 3",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"4 - 18",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"19 - 25",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"26 - 45",
+                    "mujeres":1,
+                    "hombres":0
+                },
+                {
+                    "edad":"46 - 65",
+                    "mujeres":0,
+                    "hombres":0
+                },
+                {
+                    "edad":"66 - 120",
+                    "mujeres":0,
+                    "hombres":0
+                }
+            ]
+        }
+    ]
+}

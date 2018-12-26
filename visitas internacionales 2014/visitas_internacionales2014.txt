@@ -1,0 +1,17 @@
+país;visitas
+Alemania;67
+Australia;12
+Bélgica;10
+Brasil;7
+Canadá;3
+Francia;71
+Grecia;2
+Holanda;10
+Reino unido;98
+Italia;9
+México;8
+EE.UU.;34
+Portugal;286
+Suecia;3
+Suiza;2
+Otros paises;18

@@ -1,0 +1,17 @@
+monumento;latitud;longitud
+tumbas antropomórficas;39.218308;-7.002342
+paseo de la alameda;39.219249;-7.000578
+paseo de las laderas;39.216670;-7.003125
+iglesia san mateo;39.218215;-6.999927
+fuente del caño;39.212153;-6.996622
+iglesia santa maría del mercado;39.218255;-7.000762
+iglesia de san francisco;39.223106;-7.000762
+santuario de carrión;39.180424;-7.034845
+piedra del berrocal;39.218028;-6.998260
+plaza de españa;39.218744;-6.999635
+pinturas rupestres;39.221776;-7.016119
+castillo de luna;39.217425;-7.002289
+puerta de valencia;39.218950;-7.003886
+torre de bacas;39.218023;-7.001837
+torre del reloj;39.218631;-7.000155
+puerta de la villa;39.218244;-7.000253

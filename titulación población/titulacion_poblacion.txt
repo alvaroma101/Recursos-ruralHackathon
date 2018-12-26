@@ -1,0 +1,18 @@
+titulación;0 a 3;4 a 18;19 a 25;26 a 45;46 a 65;66 a 120;total mujer;total hombre;total
+Arquitecto o ingeniero técnico;0:0;0;15;7;2;3;21;24
+Bachiller, formación profesional de segundo grado o titulos equivalentes o superiores;0;0;3;21;6;7;20;17;37
+Bachiller elemental, graduado escolar, EGB completa. Primaria completa. ESO. FPB;0;67;92;452;466;61;512;626;1138
+Bachiller superior. BUP. Bachiller LOGSE;0;2;105;138;111;17;175;198;373
+Diplomados en escuela universitarias (empresariales, profesorado de EGB, ATS y similares);0;0;0;73;42;20;97;38;135
+Doctorado y estudios de postgrado o especialización para licenciados. Máster universitario;0;0;7;56;2;0;42;23;65
+Enseñanza primaria incompleta. Cinco cursos de EGB o equivalente o certificado de escolaridad o equivalente;0;7;4;130;412;320;433;440;873
+Formación profesional de primer grado. Formación profesional de grado medio. Oficialía industrial;0;0;41;154;82;6;179;104;283
+Formación profesional de segundo grado. Formación profesional de grado superior. Maestría industrial;0;0;37;117;18;5;96;81;177
+Graduado escolar o equivalente;0;0;3;21;23;3;18;32;50
+Licenciado universitario. Arquitecto o ingeniero superior. Grado universitario;0;0;31;116;44;7;118;80;198
+No aplicable por ser menor de 16 años;170;383;0;0;0;0;276;277;553
+No sabe ni leer ni escribir;0;0;1;1;7;81;74;16;90
+Otras titulaciones medias (auxiliar de clínica, secretariado, programador de informática, auxiliar de vuelo, diplomados en artes y oficios, etc..);0;0;0;2;2;1;2;3;5
+Sin estudios;0;218;74;96;278;674;641;699;1340
+Titulación inferior a graduado escolar;0;2;3;2;0;2;3;6;9
+Titulados de estudios superiores no universitarios;0;0;0;1;0;0;1;0;1

@@ -1,0 +1,56 @@
+{
+    "paises":[
+        {
+            "país":"Alemania",
+            "visitas":67
+        },
+        {
+            "país":"Argentina",
+            "visitas":14
+        },
+        {
+            "país":"Bélgica",
+            "visitas":16
+        },
+        {
+            "país":"Canadá",
+            "visitas":5
+        },
+        {
+            "país":"Francia",
+            "visitas":52
+        },
+        {
+            "país":"Holanda",
+            "visitas":20
+        },
+        {
+            "país":"Reino unido",
+            "visitas":102
+        },
+        {
+            "país":"Italia",
+            "visitas":12
+        },
+        {
+            "país":"México",
+            "visitas":17
+        },
+        {
+            "país":"EE.UU.",
+            "visitas":65
+        },
+        {
+            "país":"Portugal",
+            "visitas":228
+        },
+        {
+            "país":"Suecia",
+            "visitas":2
+        },
+        {
+            "país":"Otros paises",
+            "visitas":13
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+Comunidad;Visitas
+Andalucía;453
+Aragón;61
+Asturias;43
+Baleares;22
+Canarias;25
+Cantabria;57
+C. Mancha;119
+C. León;245
+Cataluña;393
+C. Valenciana;142
+Extremadura;6903
+Galicia;56
+La Rioja;21
+C. Madrid;796
+Murcia;45
+Navarra;28
+P. Vasco;262
+Ceuta;6

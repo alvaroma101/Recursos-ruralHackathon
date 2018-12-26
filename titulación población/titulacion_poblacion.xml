@@ -1,0 +1,612 @@
+<tipo>
+		<titulación>Arquitecto o ingeniero técnico</titulación>
+		<total_mujeres>3</total_mujeres>
+		<total_hombres>21</total_hombres>
+		<total>24</total>
+		<edades>
+			<edad>0 - 3</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>4 - 18</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>19 - 25</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>26 - 45</edad>
+			<mujeres>1</mujeres>
+			<hombres>14</hombres>
+		</edades>
+		<edades>
+			<edad>46 - 65</edad>
+			<mujeres>2</mujeres>
+			<hombres>5</hombres>
+		</edades>
+		<edades>
+			<edad>66 - 120</edad>
+			<mujeres>0</mujeres>
+			<hombres>2</hombres>
+		</edades>
+	</tipo>
+	<tipo>
+		<titulación>Bachiller, formación profesional de segundo grado o titulos equivalentes o superiores</titulación>
+		<total_mujeres>20</total_mujeres>
+		<total_hombres>17</total_hombres>
+		<total>37</total>
+		<edades>
+			<edad>0 - 3</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>4 - 18</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>19 - 25</edad>
+			<mujeres>3</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>26 - 45</edad>
+			<mujeres>12</mujeres>
+			<hombres>9</hombres>
+		</edades>
+		<edades>
+			<edad>46 - 65</edad>
+			<mujeres>1</mujeres>
+			<hombres>5</hombres>
+		</edades>
+		<edades>
+			<edad>66 - 120</edad>
+			<mujeres>4</mujeres>
+			<hombres>3</hombres>
+		</edades>
+	</tipo>
+	<tipo>
+		<titulación>Bachiller elemental, graduado escolar, EGB completa. Primaria completa. ESO. FPB</titulación>
+		<total_mujeres>512</total_mujeres>
+		<total_hombres>626</total_hombres>
+		<total>1138</total>
+		<edades>
+			<edad>0 - 3</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>4 - 18</edad>
+			<mujeres>34</mujeres>
+			<hombres>33</hombres>
+		</edades>
+		<edades>
+			<edad>19 - 25</edad>
+			<mujeres>43</mujeres>
+			<hombres>49</hombres>
+		</edades>
+		<edades>
+			<edad>26 - 45</edad>
+			<mujeres>186</mujeres>
+			<hombres>266</hombres>
+		</edades>
+		<edades>
+			<edad>46 - 65</edad>
+			<mujeres>210</mujeres>
+			<hombres>256</hombres>
+		</edades>
+		<edades>
+			<edad>66 - 120</edad>
+			<mujeres>39</mujeres>
+			<hombres>22</hombres>
+		</edades>
+	</tipo>
+	<tipo>
+		<titulación>Bachiller superior. BUP. Bchiller LOGSE</titulación>
+		<total_mujeres>175</total_mujeres>
+		<total_hombres>198</total_hombres>
+		<total>373</total>
+		<edades>
+			<edad>0 - 3</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>4 - 18</edad>
+			<mujeres>0</mujeres>
+			<hombres>2</hombres>
+		</edades>
+		<edades>
+			<edad>19 - 25</edad>
+			<mujeres>46</mujeres>
+			<hombres>59</hombres>
+		</edades>
+		<edades>
+			<edad>26 - 45</edad>
+			<mujeres>62</mujeres>
+			<hombres>76</hombres>
+		</edades>
+		<edades>
+			<edad>46 - 65</edad>
+			<mujeres>45</mujeres>
+			<hombres>66</hombres>
+		</edades>
+		<edades>
+			<edad>66 - 120</edad>
+			<mujeres>9</mujeres>
+			<hombres>8</hombres>
+		</edades>
+	</tipo>
+	<tipo>
+		<titulación>Diplomados en escuelas universitarias (empresariales, profesorado de EGB, ATS y similares)</titulación>
+		<total_mujeres>97</total_mujeres>
+		<total_hombres>38</total_hombres>
+		<total>135</total>
+		<edades>
+			<edad>0 - 3</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>4 - 18</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>19 - 25</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>26 - 45</edad>
+			<mujeres>59</mujeres>
+			<hombres>14</hombres>
+		</edades>
+		<edades>
+			<edad>46 - 65</edad>
+			<mujeres>26</mujeres>
+			<hombres>16</hombres>
+		</edades>
+		<edades>
+			<edad>66 - 120</edad>
+			<mujeres>12</mujeres>
+			<hombres>8</hombres>
+		</edades>
+	</tipo>
+	<tipo>
+		<titulación>Doctorado y estudios de postgrado o especialización para licenciados. Máster universitario</titulación>
+		<total_mujeres>42</total_mujeres>
+		<total_hombres>23</total_hombres>
+		<total>65</total>
+		<edades>
+			<edad>0 - 3</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>4 - 18</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>19 - 25</edad>
+			<mujeres>2</mujeres>
+			<hombres>5</hombres>
+		</edades>
+		<edades>
+			<edad>26 - 45</edad>
+			<mujeres>38</mujeres>
+			<hombres>18</hombres>
+		</edades>
+		<edades>
+			<edad>46 - 65</edad>
+			<mujeres>2</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>66 - 120</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+	</tipo>
+	<tipo>
+		<titulación>Enseñanza primaria incompleta. Cinco cursos de EGB o equivalente o certificado de escolaridad o equivalente</titulación>
+		<total_mujeres>440</total_mujeres>
+		<total_hombres>443</total_hombres>
+		<total>873</total>
+		<edades>
+			<edad>0 - 3</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>4 - 18</edad>
+			<mujeres>5</mujeres>
+			<hombres>2</hombres>
+		</edades>
+		<edades>
+			<edad>19 - 25</edad>
+			<mujeres>2</mujeres>
+			<hombres>2</hombres>
+		</edades>
+		<edades>
+			<edad>26 - 45</edad>
+			<mujeres>45</mujeres>
+			<hombres>85</hombres>
+		</edades>
+		<edades>
+			<edad>46 - 65</edad>
+			<mujeres>209</mujeres>
+			<hombres>203</hombres>
+		</edades>
+		<edades>
+			<edad>66 - 120</edad>
+			<mujeres>172</mujeres>
+			<hombres>148</hombres>
+		</edades>
+	</tipo>
+	<tipo>
+		<titulación>Formación profesional de primer grado. Formación profesional de grado medio. Oficialía industrial</titulación>
+		<total_mujeres>179</total_mujeres>
+		<total_hombres>104</total_hombres>
+		<total>283</total>
+		<edades>
+			<edad>0 - 3</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>4 - 18</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>19 - 25</edad>
+			<mujeres>29</mujeres>
+			<hombres>12</hombres>
+		</edades>
+		<edades>
+			<edad>26 - 45</edad>
+			<mujeres>92</mujeres>
+			<hombres>62</hombres>
+		</edades>
+		<edades>
+			<edad>46 - 65</edad>
+			<mujeres>54</mujeres>
+			<hombres>28</hombres>
+		</edades>
+		<edades>
+			<edad>66 - 120</edad>
+			<mujeres>14</mujeres>
+			<hombres>2</hombres>
+		</edades>
+	</tipo>
+	<tipo>
+		<titulación>Formación profesional de segundo grado. Formación profesional de grado superior. Maestría industrial</titulación>
+		<total_mujeres>96</total_mujeres>
+		<total_hombres>81</total_hombres>
+		<total>177</total>
+		<edades>
+			<edad>0 - 3</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>4 - 18</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>19 - 25</edad>
+			<mujeres>23</mujeres>
+			<hombres>14</hombres>
+		</edades>
+		<edades>
+			<edad>26 - 45</edad>
+			<mujeres>63</mujeres>
+			<hombres>54</hombres>
+		</edades>
+		<edades>
+			<edad>46 - 65</edad>
+			<mujeres>7</mujeres>
+			<hombres>11</hombres>
+		</edades>
+		<edades>
+			<edad>66 - 120</edad>
+			<mujeres>3</mujeres>
+			<hombres>2</hombres>
+		</edades>
+	</tipo>
+	<tipo>
+		<titulación>Graduado escolar o equivalente</titulación>
+		<total_mujeres>18</total_mujeres>
+		<total_hombres>32</total_hombres>
+		<total>50</total>
+		<edades>
+			<edad>0 - 3</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>4 - 18</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>19 - 25</edad>
+			<mujeres>1</mujeres>
+			<hombres>2</hombres>
+		</edades>
+		<edades>
+			<edad>26 - 45</edad>
+			<mujeres>10</mujeres>
+			<hombres>11</hombres>
+		</edades>
+		<edades>
+			<edad>46 - 65</edad>
+			<mujeres>7</mujeres>
+			<hombres>16</hombres>
+		</edades>
+		<edades>
+			<edad>66 - 120</edad>
+			<mujeres>0</mujeres>
+			<hombres>3</hombres>
+		</edades>
+	</tipo>
+	<tipo>
+		<titulación>Licenciado universitario. Arquitecto o ingeniero superior. Grado universitario</titulación>
+		<total_mujeres>118</total_mujeres>
+		<total_hombres>80</total_hombres>
+		<total>198</total>
+		<edades>
+			<edad>0 - 3</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>4 - 18</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>19 - 25</edad>
+			<mujeres>20</mujeres>
+			<hombres>11</hombres>
+		</edades>
+		<edades>
+			<edad>26 - 45</edad>
+			<mujeres>69</mujeres>
+			<hombres>47</hombres>
+		</edades>
+		<edades>
+			<edad>46 - 65</edad>
+			<mujeres>25</mujeres>
+			<hombres>19</hombres>
+		</edades>
+		<edades>
+			<edad>66 - 120</edad>
+			<mujeres>4</mujeres>
+			<hombres>3</hombres>
+		</edades>
+	</tipo>
+	<tipo>
+		<titulación>No aplicable por ser menor de 16 años</titulación>
+		<total_mujeres>276</total_mujeres>
+		<total_hombres>277</total_hombres>
+		<total>553</total>
+		<edades>
+			<edad>0 - 3</edad>
+			<mujeres>85</mujeres>
+			<hombres>85</hombres>
+		</edades>
+		<edades>
+			<edad>4 - 18</edad>
+			<mujeres>191</mujeres>
+			<hombres>192</hombres>
+		</edades>
+		<edades>
+			<edad>19 - 25</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>26 - 45</edad>
+			<mujeres>59</mujeres>
+			<hombres>14</hombres>
+		</edades>
+		<edades>
+			<edad>46 - 65</edad>
+			<mujeres>26</mujeres>
+			<hombres>16</hombres>
+		</edades>
+		<edades>
+			<edad>66 - 120</edad>
+			<mujeres>12</mujeres>
+			<hombres>8</hombres>
+		</edades>
+	</tipo>
+	<tipo>
+		<titulación>No sabe leer ni escribir</titulación>
+		<total_mujeres>74</total_mujeres>
+		<total_hombres>16</total_hombres>
+		<total>90</total>
+		<edades>
+			<edad>0 - 3</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>4 - 18</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>19 - 25</edad>
+			<mujeres>0</mujeres>
+			<hombres>1</hombres>
+		</edades>
+		<edades>
+			<edad>26 - 45</edad>
+			<mujeres>0</mujeres>
+			<hombres>1</hombres>
+		</edades>
+		<edades>
+			<edad>46 - 65</edad>
+			<mujeres>4</mujeres>
+			<hombres>3</hombres>
+		</edades>
+		<edades>
+			<edad>66 - 120</edad>
+			<mujeres>70</mujeres>
+			<hombres>11</hombres>
+		</edades>
+	</tipo>
+	<tipo>
+		<titulación>Otras titulaciones medias (auxiliar de clínica, secretariado, programador de informática, auxiliar de vuelo, diplomados en artes y oficios, etc...)</titulación>
+		<total_mujeres>2</total_mujeres>
+		<total_hombres>3</total_hombres>
+		<total>5</total>
+		<edades>
+			<edad>0 - 3</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>4 - 18</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>19 - 25</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>26 - 45</edad>
+			<mujeres>2</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>46 - 65</edad>
+			<mujeres>0</mujeres>
+			<hombres>2</hombres>
+		</edades>
+		<edades>
+			<edad>66 - 120</edad>
+			<mujeres>0</mujeres>
+			<hombres>1</hombres>
+		</edades>
+	</tipo>
+	<tipo>
+		<titulación>Sin estudios</titulación>
+		<total_mujeres>641</total_mujeres>
+		<total_hombres>699</total_hombres>
+		<total>1340</total>
+		<edades>
+			<edad>0 - 3</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>4 - 18</edad>
+			<mujeres>104</mujeres>
+			<hombres>114</hombres>
+		</edades>
+		<edades>
+			<edad>19 - 25</edad>
+			<mujeres>16</mujeres>
+			<hombres>58</hombres>
+		</edades>
+		<edades>
+			<edad>26 - 45</edad>
+			<mujeres>31</mujeres>
+			<hombres>65</hombres>
+		</edades>
+		<edades>
+			<edad>46 - 65</edad>
+			<mujeres>131</mujeres>
+			<hombres>147</hombres>
+		</edades>
+		<edades>
+			<edad>66 - 120</edad>
+			<mujeres>359</mujeres>
+			<hombres>315</hombres>
+		</edades>
+	</tipo>
+	<tipo>
+		<titulación>Titulación inferior a graduado escolar</titulación>
+		<total_mujeres>3</total_mujeres>
+		<total_hombres>6</total_hombres>
+		<total>9</total>
+		<edades>
+			<edad>0 - 3</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>4 - 18</edad>
+			<mujeres>0</mujeres>
+			<hombres>2</hombres>
+		</edades>
+		<edades>
+			<edad>19 - 25</edad>
+			<mujeres>1</mujeres>
+			<hombres>2</hombres>
+		</edades>
+		<edades>
+			<edad>26 - 45</edad>
+			<mujeres>1</mujeres>
+			<hombres>1</hombres>
+		</edades>
+		<edades>
+			<edad>46 - 65</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>66 - 120</edad>
+			<mujeres>1</mujeres>
+			<hombres>1</hombres>
+		</edades>
+	</tipo>
+	<tipo>
+		<titulación>Titulados de estudios superiores no universitarios</titulación>
+		<total_mujeres>1</total_mujeres>
+		<total_hombres>0</total_hombres>
+		<total>1</total>
+		<edades>
+			<edad>0 - 3</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>4 - 18</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>19 - 25</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>26 - 45</edad>
+			<mujeres>1</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>46 - 65</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+		<edades>
+			<edad>66 - 120</edad>
+			<mujeres>0</mujeres>
+			<hombres>0</hombres>
+		</edades>
+	</tipo>

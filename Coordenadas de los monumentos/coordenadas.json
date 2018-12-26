@@ -1,0 +1,117 @@
+{ 
+    "lugares":[
+        {
+            "monumento": "tumbas antropomórficas",
+            "coordenadas":{
+                "latitud": 39.218308,
+                "longitud": -7.002342
+            }
+        },
+        {
+            "monumento": "paseo de la alameda",
+            "coordenadas":{
+                "latitud": 39.219249,
+                "longitud": -7.000578
+            }
+        },
+        {
+            "monumento": "paseo de las laderas",
+            "coordenadas":{
+                "latitud": 39.216670,
+                "longitud": -7.003125
+            }
+        },
+        {
+            "monumento": "iglesia san mateo",
+            "coordenadas":{
+                "latitud": 39.218215,
+                "longitud": -6.999927
+            }
+        },
+        {
+            "monumento": "fuente del caño",
+            "coordenadas":{
+                "latitud": 39.212153,
+                "longitud": -6.996622
+            }
+        },
+        {
+            "monumento": "iglesia santa maría del mercado",
+            "coordenadas":{
+                "latitud": 39.218255,
+                "longitud": -7.000762
+            }
+        },
+        {
+            "monumento": "iglesia de san francisco",
+            "coordenadas":{
+                "latitud": 39.223106,
+                "longitud": -7.000762
+            }
+        },
+        {
+            "monumento": "santuario de carrión",
+            "coordenadas":{
+                "latitud": 39.180424,
+                "longitud": -7.034845
+            }
+        },
+        {
+            "monumento": "piedra del berrocal",
+            "coordenadas":{
+                "latitud": 39.218028,
+                "longitud": -6.998260
+            }
+        },
+        {
+            "monumento": "plaza de españa",
+            "coordenadas":{
+                "latitud": 39.218744,
+                "longitud": -6.999635
+            }
+        },
+        {
+            "monumento": "pinturas rupestres",
+            "coordenadas":{
+                "latitud": 39.221776,
+                "longitud": -7.016119
+            }
+        },
+        {
+            "monumento": "castillo de luna",
+            "coordenadas":{
+                "latitud": 39.217425,
+                "longitud": -7.002289
+            }
+        },
+        {
+            "monumento": "puerta de valencia",
+            "coordenadas":{
+                "latitud": 39.218950,
+                "longitud": -7.003886
+            }
+        },
+        {
+            "monumento": "torre de bacas",
+            "coordenadas":{
+                "latitud": 39.218023,
+                "longitud": -7.001837
+            }
+        },
+        {
+            "monumento": "torre del reloj",
+            "coordenadas":{
+                "latitud": 39.218631,
+                "longitud": -7.000155
+            }
+        },
+        {
+            "monumento": "puerta de la villa",
+            "coordenadas":{
+                "latitud": 39.218244,
+                "longitud": -7.000253
+            }
+        }
+    ]
+    
+}

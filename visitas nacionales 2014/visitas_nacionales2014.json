@@ -1,0 +1,76 @@
+{
+    "comunidades":[
+        {
+            "comunidad":"Andalucía",
+            "visitas":489
+        },
+        {
+            "comunidad":"Aragón",
+            "visitas":52
+        },
+        {
+            "comunidad":"Asturias",
+            "visitas":97
+        },
+        {
+            "comunidad":"Baleares",
+            "visitas":28
+        },
+        {
+            "comunidad":"Canarias",
+            "visitas":80
+        },
+        {
+            "comunidad":"Cantabria",
+            "visitas":60
+        },
+        {
+            "comunidad":"C. Mancha",
+            "visitas":127
+        },
+        {
+            "comunidad":"C. León",
+            "visitas":167
+        },
+        {
+            "comunidad":"Cataluña",
+            "visitas":464
+        },
+        {
+            "comunidad":"C. Valenciana",
+            "visitas":152
+        },
+        {
+            "comunidad":"Extremadura",
+            "visitas":5325
+        },
+        {
+            "comunidad":"Galicia",
+            "visitas":141
+        },
+        {
+            "comunidad":"La Rioja",
+            "visitas":13
+        },
+        {
+            "comunidad":"C. Madrid",
+            "visitas":1079
+        },
+        {
+            "comunidad":"Murcia",
+            "visitas":90
+        },
+        {
+            "comunidad":"Navarra",
+            "visitas":32
+        },
+        {
+            "comunidad":"P. Vasco",
+            "visitas":364
+        },
+        {
+            "comunidad":"Melilla",
+            "visitas":13
+        }
+    ]
+}
