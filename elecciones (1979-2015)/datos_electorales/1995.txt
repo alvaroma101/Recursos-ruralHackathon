@@ -1,0 +1,5 @@
+Partidos;concejales;votos
+ORPO;7;1710
+PSOE;5;1307
+PP;1;390
+IU;0;141

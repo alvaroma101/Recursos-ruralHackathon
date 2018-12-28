@@ -1,0 +1,3 @@
+Partidos;concejales;votos
+PSOE;11;2900
+PP;2;692

@@ -1,0 +1,4 @@
+Partidos;concejales;votos
+ORPO;9;2280
+IPAL;3;935
+PP;2;330

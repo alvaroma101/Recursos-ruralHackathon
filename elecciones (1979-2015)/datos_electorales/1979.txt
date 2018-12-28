@@ -1,0 +1,4 @@
+partidos;concejales;votos
+UCD;6;1506
+PCE;4;988
+PSOE;3;820

@@ -1,0 +1,7 @@
+partidos;concejales;votos
+PSOE;4;922
+IU;3;899
+CDS;2;610
+PDP;2;469
+Partido independiente;1;321
+AP;1;319
